@@ -1,2 +1,2 @@
 # data-science
-data science projects
+Repository for storing data science projects
